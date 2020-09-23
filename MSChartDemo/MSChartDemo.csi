@@ -1,0 +1,5 @@
+[History]
+B0=MSChartDemo/FrmChart/Form_Load
+B1=MSChartDemo/FrmChart/Command1_Click
+B2=MSChartDemo/FrmChart/CmdSaveas_Click
+B3=MSChartDemo/FrmChart/CmdPrint_Click
